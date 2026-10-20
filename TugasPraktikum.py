@@ -1,6 +1,7 @@
 import tkinter as tk
 
 top = tk.Tk()
+top.title("Prediksi Prodi")
 
 def hasilPrediksi():
     var.set("Teknologi Informasi")
